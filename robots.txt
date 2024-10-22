@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blenimpl.github.io/blenimpl.blenimpl
+Sitemap: https://blenimpl.github.io/app/blenimpl.blenimpl
+Sitemap: https://blenimpl.github.io/assets/blenimpl.blenimpl
+Sitemap: https://blenimpl.github.io/css/blenimpl.blenimpl
+Sitemap: https://blenimpl.github.io/includes/blenimpl.blenimpl
+Sitemap: https://blenimpl.github.io/item/blenimpl.blenimpl
+Sitemap: https://blenimpl.github.io/src/blenimpl.blenimpl
